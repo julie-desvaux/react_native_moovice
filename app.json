@@ -1,0 +1,12 @@
+{
+  "name": "moovice",
+  "displayName": "moovice",
+  "expo": {
+    "name": "moovice",
+    "slug": "moovice",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
